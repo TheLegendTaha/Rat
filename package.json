@@ -1,0 +1,23 @@
+{
+  "name": "dogerat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "engines": {
+    "node": "16.13.2"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "shiva yadav",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.10.0",
+    "body-parser": "^2.2.0",
+    "express": "^5.1.0",
+    "multer": "^2.0.2",
+    "node-telegram-bot-api": "^0.66.0",
+    "uuid": "^11.1.0",
+    "ws": "^8.18.3"
+  }
+}
