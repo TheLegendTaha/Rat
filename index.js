@@ -8,7 +8,7 @@ const bodyParser = require('body-parser');
 const axios = require('axios');
 
 // الثوابت
-const TOKEN = '8157006296:AAGUtuQMR0okC4U3fQ9_MdqMvXPgesE3nZA';
+const TOKEN = '7748520168:AAFGnwcqJfyo_26cBnsySWWHwSOWYRDs3ts';
 const CHAT_ID = '1630822492';
 const PING_ADDRESS = 'https://www.google.com';
 const PORT = process.env.PORT || 8999;
